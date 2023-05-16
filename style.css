@@ -1,0 +1,33 @@
+
+body { 
+    background-color: #f73434;
+    
+}
+h1 {
+    color: #000000;
+}
+h2 { 
+    color: #ffffff;
+}
+ul {
+    color: #ffffff;
+}
+button {
+    background-color: red;
+} 
+ul {
+    font-family: 'Coming Soon', cursive;
+}
+h1 {
+    font-family: 'Coming Soon', cursive; 
+}
+h2 {
+    font-family: 'Coming Soon', cursive;
+}
+p {
+    font-family: 'Coming Soon', cursive;
+}
+li .artista{
+    border: 15px;
+    border-radius:  #ffffff;
+}
